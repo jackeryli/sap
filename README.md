@@ -1,4 +1,4 @@
-# Stream Analytics System
+# SAP (Streaming Analytics Platform)
 
 ## Introduction
 
