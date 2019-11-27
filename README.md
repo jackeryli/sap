@@ -33,7 +33,7 @@ Read the [Collector](collector/README.md) guide to know how to collect video str
 
 Read the [Processor](processor/README.md) guide to know how to run the existed analytics.
 
-Read the [Kubernetes installation](docs/kubernets/k8s-installation.md) guide to know how to run a k8s cluster on serveral computers.
+Read the [Kubernetes installation](docs/kubernetes/k8s-installation.md) guide to know how to run a k8s cluster on serveral computers.
 
 
 
