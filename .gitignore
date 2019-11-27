@@ -1,0 +1,5 @@
+*.pyc
+data/
+deployment/
+tutorials/
+docker/

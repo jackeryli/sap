@@ -1,0 +1,5 @@
+pulsar-client==2.4.1
+opencv-python
+argparse
+numpy
+influxdb
